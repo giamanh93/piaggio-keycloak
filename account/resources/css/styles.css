@@ -224,12 +224,14 @@ div#kc-header{
 
 #kc-page-title{
     text-indent: -99999999999px;
-    width: 270px;
-    height: 64px;
+    width: 330px;
+    height: 83px;
     margin: auto;
-    background: url('../img/logo-yamaha.svg');
+    background: url('../img/Piaggio.png');
     background-size: contain;
     position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 #kc-form-wrapper {
     background: #fff;
